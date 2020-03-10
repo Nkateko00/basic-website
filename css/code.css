@@ -1,0 +1,92 @@
+table,
+    td,
+    th {
+        border: solid 1px snow;
+        border-collapse: collapse;
+        width: 900px;
+        height: 50px;
+
+    }
+
+    .table-class {
+        display: flex;
+        padding-top: 10px;
+        padding-bottom:20px;
+        color:snow;
+    }
+
+    .intro {
+        
+        display: flex;
+        border: 2px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+ 
+    .name {
+
+        font: sans-serif;
+        width: 40%;
+        color: snow;
+        padding-left: 40px;
+    }
+
+    .visit,
+    p {
+        color:snow;
+        display: flex;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .historical-places {
+        display: flex;
+        /* background-color: whitesmoke; */
+        padding-top: 50px; 
+    }
+
+    .historical-places div {
+         /*border: 1px grey solid;*/  
+         flex-grow : 1;
+    }
+
+    .cityHall {
+        color:snow;
+        display: flex;
+    }
+
+    .castle {
+        color:snow;
+         display :flex; 
+    }
+    .longStreet{
+        color:snow;
+        display :flex;
+
+    } 
+    .footer{
+        background-color: dimgray;
+        color:snow;
+    }
+    .main{
+        background-color: black;
+        padding :20px;
+    }
+    .style1{
+        color:snow;
+    }
+    .style2{
+        color:snow;
+    }
+    .style3{
+        color:snow;
+    }
+    .style4{
+        color:snow;
+    }
+    .visitation{
+        color:snow;
+    }
+    .languages{
+        color:snow;
+    }
