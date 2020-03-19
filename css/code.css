@@ -137,6 +137,7 @@ body {
     .left{
         float:left;
         margin:1em;
+        max-width: 100%;
     }
     .p{
     margin : 2em;
@@ -150,7 +151,7 @@ body {
     @media(min-width:480px){t
     .images{
     margin:1em;
-    width: 32%;
+    max-width:100%;
 
 }
 }
