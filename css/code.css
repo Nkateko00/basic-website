@@ -148,7 +148,9 @@ table,
     margin : 1em;
     padding: 1em;
 }
+@media(min-width:480px){
 .images{
     margin:1em;
 
+}
 }
