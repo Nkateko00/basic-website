@@ -139,18 +139,22 @@ table,
         float:left;
         margin:1em;
     }
-.p{
+    .p{
     margin : 2em;
     padding: 1em;
 }
     
-.ul{
+    .ul{
     margin : 1em;
     padding: 1em;
 }
-@media(min-width:480px){
-.images{
+    @media(min-width:480px){
+    .images{
     margin:1em;
+    width: 32%;
 
 }
+}
+.img{
+    max-width: 100%;
 }
