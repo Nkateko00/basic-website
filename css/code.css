@@ -58,8 +58,6 @@ body {
     .cityHall {
         color:snow;
         display: flex;
-        margin :20px;
-        padding:1em;
         flex:1;
     }
 
