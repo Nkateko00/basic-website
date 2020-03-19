@@ -86,7 +86,7 @@ table,
     }
     .main{
         background-color: black;
-        padding :20px;
+        
     }
     .style1{
         color:snow;
@@ -148,7 +148,7 @@ table,
     margin : 1em;
     padding: 1em;
 }
-    @media(min-width:480px){
+    @media(min-width:480px){t
     .images{
     margin:1em;
     width: 32%;
