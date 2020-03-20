@@ -135,18 +135,18 @@ body {
     }
 }
     .left{
+    
         float:left;
-        margin:1em;
         max-width: 100%;
     }
     .p{
-    margin : 2em;
-    padding: 1em;
+    margin : 1em;
+    
 }
     
     .ul{
     margin : 1em;
-    padding: 1em;
+    
 }
     @media(min-width:480px){t
     .images{
