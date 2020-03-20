@@ -65,15 +65,11 @@ body {
     .castle {
         color:snow;
          display :flex;
-         padding:1em; 
-         margin :20px;
          flex:1;
     }
     .longStreet{
         color:snow;
         display :flex;
-        padding:1em;
-        margin :10px;
         flex:1;
 
     } 
