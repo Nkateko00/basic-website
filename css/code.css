@@ -9,8 +9,9 @@ body {
     th {
         border: solid 1px snow;
         border-collapse: collapse;
-        width: 600px;
-        height: 25px;
+        width: 375px;
+        height: 30px; 
+
 
     }
 }
@@ -43,7 +44,7 @@ body {
 
     @media(min-width:660px){
     .historical-places{
-        margin: 1em; 
+        
         display: flex; 
         padding-top: 10px; 
     }
