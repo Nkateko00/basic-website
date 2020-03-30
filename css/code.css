@@ -9,7 +9,7 @@ body {
     th {
         border: solid 1px snow;
         border-collapse: collapse;
-        width: 750px;
+        width: 600px;
         height: 25px;
 
     }
@@ -28,8 +28,8 @@ body {
         
         display: flex;
         border: 2px;
-        padding-top: 10px;
-        padding-left: 10px;
+        /* padding-top: 10px;
+        padding-left: 10px; */
     }
     }
  
